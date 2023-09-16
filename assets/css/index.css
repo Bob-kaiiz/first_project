@@ -1,0 +1,32 @@
+.big{
+    font-size: 80px;
+    font-weight: 900;
+    text-decoration: cornsilk;
+}
+#large{
+    font-size: 50px;
+    font-weight: 900;
+}
+#small{
+    font-size: 50px;
+    font-weight: 900;
+}
+#top{
+    font-size: 20px;
+    font-weight: 900;
+}
+#bad{
+    font-size: 50px;
+    font-weight: 900; 
+}
+#good{
+    font-size: 20px;
+    font-weight: 900;
+}
+#better{
+    font-size: 50px;
+    font-weight: 900;  
+}
+a{
+    text-decoration: none;
+}
